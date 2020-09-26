@@ -1,2 +1,2 @@
 //Sample code
-//sample code from remote
+//sample code - remote
