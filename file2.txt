@@ -1,3 +1,7 @@
 //another text file
 //New comment at origin
-//Added at origin
+
+
+
+//Trying another conflict
+>>>>>>> 3759640b834cced9f2db2ebf743996179b6c3357
